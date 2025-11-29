@@ -1,4 +1,4 @@
-import GithubIcon from "./Icons/github.svg?react";
+import GithubIcon from "./Icons/GitHub.svg?react";
 import BehanceIcon from "./Icons/Behance.svg?react";
 import StackOverflowIcon from "./Icons/StackOverflow.svg?react";
 import LinkedInIcon from "./Icons/LinkedIn.svg?react";
