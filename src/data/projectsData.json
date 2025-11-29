@@ -5,7 +5,7 @@
       "title1": "🏢 Real Estate",
       "title2": "",
       "imgtitle": "Image of Weather App project",
-      "imgSrc": "src/assets/Image/ImgProjects/Real-Estate.png",
+      "imgSrc": "/Image/ImgProjects/Real-Estate.png",
       "description": "A modern real estate web app that lets users explore and filter properties across Dubai. Built with HTML, CSS, and JavaScript, it features a responsive design, interactive UI elements, and clean property cards to help users easily navigate the market. Welcome to Dian Real Estate — a simple and stylish way to discover Dubai properties.",
       "tags": ["html", "sass", "javascript"],
       "button": [
@@ -24,7 +24,7 @@
       "title1": "🐶 Pet foster",
       "title2": "(Team Accessibility project)",
       "imgtitle": "Image of Pet-foster project",
-      "imgSrc": "src/assets/Image/ImgProjects/Pet-foster-img.png",
+      "imgSrc": "/Image/ImgProjects/Pet-foster-img.png",
       "description": "An accessibility-focused website for exploring adoptable dogs. Designed with UX and Web Accessibility in mind, the site includes keyboard navigation, ARIA roles, accessible forms, and proper color contrast to ensure a friendly experience for all users. Built with HTML, CSS, JavaScript, and responsive layout.",
       "tags": ["figma", "git", "javascript", "typescript"],
       "button": [
@@ -43,7 +43,7 @@
       "title1": "🍰 Favorite Dessert",
       "title2": "(API Project)",
       "imgtitle": "Image of Favorite-Dessert project",
-      "imgSrc": "src/assets/Image/ImgProjects/Favorite-Dessert-img.png",
+      "imgSrc": "/Image/ImgProjects/Favorite-Dessert-img.png",
       "description": "A dessert recipe application where users can search, filter, and sort recipes by cuisine (Italy, Asia, Middle East) or popularity. Users can like their favorite desserts and view them later in the Favorites section. Built with HTML, CSS, JavaScript, and integrated with a dessert recipe API. Fully responsive and user-friendly.",
       "tags": ["html", "sass", "javascript"],
       "button": [

@@ -8,22 +8,22 @@
   "img": [
     {
       "id": "Left",
-      "src": "src/assets/Image/ImgHero/HeroImage1.png",
+      "src": "/Image/ImgHero/HeroImage1.png",
       "alt": "It's Kausar's image left"
     },
     {
       "id": "Middle",
-      "src": "src/assets/Image/ImgHero/HeroImage2.png",
+      "src": "/Image/ImgHero/HeroImage2.png",
       "alt": "It's Kausar's image in the middle"
     },
     {
       "id": "Right",
-      "src": "src/assets/Image/ImgHero/HeroImage3.png",
+      "src": "/Image/ImgHero/HeroImage3.png",
       "alt": "It's Kausar's image right"
     }
   ],
   "imgFooter": {
-    "src": "src/assets/Image/ImgHero/FooterLogo.png",
+    "src": "/Image/ImgHero/FooterLogo.png",
     "alt": "It's Kausar's logo"
   }
 }
