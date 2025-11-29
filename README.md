@@ -8,7 +8,7 @@ The live project is available on [Netlify](https://your-netlify-link.netlify.app
 
 ## 🔗 Demo
 
-Check it out here: [Kausar Portfolio on Netlify](https://your-netlify-link.netlify.app/)
+Check it out here: [Kausar Portfolio on Netlify](https://kausarshangareeva-portfolio.netlify.app/)
 
 ---
 
