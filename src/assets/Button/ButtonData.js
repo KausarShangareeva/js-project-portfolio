@@ -1,6 +1,6 @@
-import GithubIcon from "./buttonIcons/GitHub.svg?react";
-import VsCodeIcon from "./buttonIcons/VSCode.svg?react";
-import LinkedInIcon from "./buttonIcons/LinkedIn.svg?react";
+import GithubIcon from "./ButtonIcons/GitHub.svg?react";
+import VsCodeIcon from "./ButtonIcons/VSCode.svg?react";
+import LinkedInIcon from "./ButtonIcons/LinkedIn.svg?react";
 
 export const buttonData = {
   viewcode: { name: "View Code", icon: GithubIcon },
