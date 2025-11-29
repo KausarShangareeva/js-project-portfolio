@@ -1,0 +1,31 @@
+{
+  "tech": [
+    {
+      "tagitem": "Frontend",
+      "taglist": [
+        "html",
+        "css",
+        "javascript",
+        "reactjs",
+        "Flexbox",
+        "ES6",
+        "React Hook"
+      ]
+    },
+    {
+      "tagitem": "Backend",
+      "taglist": ["nodejs", "MongoDB", "APIs"]
+    },
+    {
+      "tagitem": "UI / UX",
+      "taglist": [
+        "figma",
+        "Web Accessibility",
+        "User-Friendly Interfaces",
+        "Mobile Programming",
+        "Pair Programming",
+        "github"
+      ]
+    }
+  ]
+}

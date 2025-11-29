@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "My First Steps in IT 😎",
+      "imgtitle": "Image of Weather App project",
+      "imgSrc": "src/assets/Image/ImgBlog/BlogImage-1.jpg",
+      "desc": " In August 2025, I took a big step towards my dream and started the JavaScript Bootcamp at Technigo. It was the beginning of an exciting adventure into the world of web and app development. Every line of code I wrote, every project I built, brought me closer to becoming a professional programmer. Learning new technologies, solving challenges, and creating functional websites and applications has been incredibly rewarding. Today, I can proudly say that my dream of turning my passion into a career has finally come true.",
+      "date": "August 30th 2025",
+      "button": [
+        {
+          "name": "readarticlelinkedin",
+          "link": "https://www.linkedin.com/posts/kausar-shangareeva-312a8b27a_im-happy-to-share-that-ive-started-my-program-activity-7395015054946992128-S5-E?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEQlq_4B_nwHHuRYPVQBypfkzrrkfUpVYas"
+        }
+      ]
+    }
+  ]
+}

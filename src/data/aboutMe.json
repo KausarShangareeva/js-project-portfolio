@@ -1,0 +1,29 @@
+{
+  "name": "Kausar",
+  "fullname": "Kausar Shangareeva",
+  "proffession": "JavaScript Frontent Developer with a Background in Freelance Web Design",
+  "desc": "I create digital experiences that are both visually appealing and highly functional. I’ve spent six years working as a freelance web designer across different countries, building projects from scratch and developing my skills independently. To bring my designs to life in code, I expanded into development and am now training as a full-stack developer at Technigo, focusing on JavaScript, React, and Node.js. I also continue learning through Udemy, with certificates available on my LinkedIn. I code with a strong focus on user-friendly interfaces and thoughtful UX, enjoy collaborative work, and look for opportunities to combine my design background with real-world development projects.",
+  "number": "+46 72 022 46 62",
+  "mail": "kausyarsh@mail.com",
+  "img": [
+    {
+      "id": "Left",
+      "src": "src/assets/Image/ImgHero/HeroImage1.png",
+      "alt": "It's Kausar's image left"
+    },
+    {
+      "id": "Middle",
+      "src": "src/assets/Image/ImgHero/HeroImage2.png",
+      "alt": "It's Kausar's image in the middle"
+    },
+    {
+      "id": "Right",
+      "src": "src/assets/Image/ImgHero/HeroImage3.png",
+      "alt": "It's Kausar's image right"
+    }
+  ],
+  "imgFooter": {
+    "src": "src/assets/Image/ImgHero/FooterLogo.png",
+    "alt": "It's Kausar's logo"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "skills": {
+    "code": {
+      "tagitem": "Code",
+      "taglist": ["html", "css", "javascript", "reactjs", "github"]
+    },
+    "toolbox": {
+      "tagitem": "Toolbox",
+      "taglist": ["adobephotoshop", "adobeillustrator", "figma", "slack"]
+    },
+    "upcoming": {
+      "tagitem": "Upcoming",
+      "taglist": ["nodejs"]
+    },
+    "more": {
+      "tagitem": "More",
+      "taglist": [
+        "branding",
+        "strategy",
+        "process design",
+        "concept development",
+        "agile methodology"
+      ]
+    }
+  }
+}

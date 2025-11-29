@@ -1,8 +1,21 @@
-export const App = () => {
+import { GlobalStyles } from "./styles/GlobalStyles";
+import HeroSection from "./Sections/HeroSection/HeroSection";
+import TechSection from "./Sections/TechSection/TechSection";
+import FeaturedProjectsSection from "./Sections/FeaturedProjectsSection/FeaturedProjectsSection";
+import SkillsSection from "./Sections/SkillsSection/SkillsSection";
+import BlogSection from "./Sections/BlogSection/BlogSection";
+import FooterSection from "./Sections/FooterSection/FooterSection";
+
+export default function App() {
   return (
     <>
-      <h1>Portfolio</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem, laborum! Maxime animi nostrum facilis distinctio neque labore consectetur beatae eum ipsum excepturi voluptatum, dicta repellendus incidunt fugiat, consequatur rem aperiam.</p>
+      <GlobalStyles />
+      <HeroSection />
+      <TechSection />
+      <FeaturedProjectsSection />
+      <SkillsSection />
+      <BlogSection />
+      <FooterSection />
     </>
-  )
+  );
 }
