@@ -2,7 +2,7 @@
 
 **Kausar Portfolio** is a modern, interactive portfolio website built during Technigo’s JavaScript Bootcamp (August 2025). The project showcases my skills, projects, blog articles, and tech stack, demonstrating responsive design, dynamic content, and interactive UI components.
 
-The live project is available on [Netlify](https://your-netlify-link.netlify.app/).
+The live project is available on [Netlify](https://kausarshangareeva-portfolio.netlify.app/).
 
 ---
 
@@ -14,7 +14,7 @@ Check it out here: [Kausar Portfolio on Netlify](https://kausarshangareeva-portf
 
 ## 📸 Screenshot
 
-## ![Portfolio Screenshot](src/assets/Image/portfolio-screen.png)
+## ![Portfolio Screenshot](public/Image/portfolio-screen.png)
 
 ## 🚀 Features
 
