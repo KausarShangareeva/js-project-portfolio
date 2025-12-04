@@ -17,6 +17,7 @@ export function FooterIconList() {
             href={item.link}
             target="_blank"
             rel="noopener noreferrer"
+            aria-label={item.label}
             style={{ marginRight: "10px" }}
           >
             <item.icon width={24} height={24} />

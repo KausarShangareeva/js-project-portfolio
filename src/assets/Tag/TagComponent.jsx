@@ -8,12 +8,12 @@ const TagStyle = styled.span`
   padding: 6px 13px;
   font-weight: bold;
   font-size: 18px;
-  background: rgba(255, 255, 255, 0.39);
+  background: white;
   border-radius: 10px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
   backdrop-filter: blur(10.8px);
   -webkit-backdrop-filter: blur(10.8px);
-  border: 1px solid rgba(255, 255, 255, 1);
+  border: 1px solid white;
   color: #000;
   cursor: pointer;
   transition: all 0.5s;

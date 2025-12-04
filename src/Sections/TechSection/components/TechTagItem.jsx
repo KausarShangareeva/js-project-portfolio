@@ -1,5 +1,5 @@
-import { TitleH5 } from "../../../assets/Typography";
+import { TitleH4 } from "../../../assets/Typography";
 
 export function TechTagItem({ title }) {
-  return <TitleH5>{title}</TitleH5>;
+  return <TitleH4>{title}</TitleH4>;
 }

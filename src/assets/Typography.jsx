@@ -73,7 +73,7 @@ export function TitleH3({ children, ...props }) {
 // Desktop - 25px
 // Tablet - 20px
 //////////////////////////////
-const H4 = styled.h4`
+const H5 = styled.h5`
   font-size: 25px;
   font-weight: 500;
 
@@ -91,12 +91,12 @@ export function TitleH4({ children, ...props }) {
 // Desktop - 20px
 // Tablet - 18px
 //////////////////////////////
-const H5 = styled.h5`
+const H4 = styled.h4`
   color: white;
   font-size: 20px;
   font-weight: 500;
   margin-bottom: 20px;
-  padding: 5px 10px;
+  padding: 8px 10px;
   border: 1.5px solid white;
   border-radius: 10px;
 

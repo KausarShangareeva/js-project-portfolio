@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { TitleH4 } from "../../../assets/Typography";
+import { TitleH5 } from "../../../assets/Typography";
 
 const DivStyle = styled.div`
   display: flex;
@@ -14,9 +14,9 @@ const DivStyle = styled.div`
 export function Contacts({ data }) {
   return (
     <DivStyle>
-      <TitleH4>{data.fullname}</TitleH4>
-      <TitleH4>{data.number}</TitleH4>
-      <TitleH4>{data.mail}</TitleH4>
+      <TitleH5>{data.fullname}</TitleH5>
+      <TitleH5>{data.number}</TitleH5>
+      <TitleH5>{data.mail}</TitleH5>
     </DivStyle>
   );
 }
